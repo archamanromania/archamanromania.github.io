@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6cb4e2f-3572-4fd5-a7c8-c6c2cb5ee3e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects-compact-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects-compact-grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects-grid-cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects-grid-cards.html" afterDir="false" />
-    </list>
+    <list default="true" id="b6cb4e2f-3572-4fd5-a7c8-c6c2cb5ee3e5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616589825673</updated>
-      <workItem from="1616589827232" duration="773000" />
+      <workItem from="1616589827232" duration="952000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1616590240464</created>
