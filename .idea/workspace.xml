@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b6cb4e2f-3572-4fd5-a7c8-c6c2cb5ee3e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-copy.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-copy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects-compact-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects-compact-grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects-grid-cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects-grid-cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/untitled.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/untitled.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +25,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,7 +41,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616589825673</updated>
-      <workItem from="1616589827232" duration="1065000" />
+      <workItem from="1616589827232" duration="1397000" />
+      <workItem from="1617440303837" duration="2129000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1616590240464</created>

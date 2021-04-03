@@ -71,21 +71,35 @@ margin-left: 150px;
 
   }
 }
-@media (max-width: 720px) {
+@media only Screen and (max-width: 720px) {
   .videoTxt{
 
   }
 }
-@media (max-width: 960px) {
+@media only Screen and (device-width: 768px) {
   .videoTxt{
     margin-top: -300px;
     margin-left: 35px;
   }
 }
 
-@media (max-width: 1920px) {
+@media only Screen and (min-width: 1440px) {
   .videoTxt{
-    margin-left: 10%;
-    margin-top: -520px;
+    margin-left: 20%;
+    margin-top: -34.5%;
   }
+}
+@media only Screen and (min-width: 2000px) {
+  .videoTxt{
+    margin-top: -35%;
+    margin-right: 100%;
+  }
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
+  /* For portrait layouts only */
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
+  /* For landscape layouts only */
 }
