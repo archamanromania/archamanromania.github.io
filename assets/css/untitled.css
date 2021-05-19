@@ -58,13 +58,11 @@ body {
 }
 
 .videoTxt{
-  margin-top:-12%;
-  margin-left: 11%;
+  margin-left: 160px;
 }
 /*
-margin-top: -525px;
-margin-left: 150px;
-
+  margin-top: -550px;
+  margin-left: 150px;
  */
 
 .headerTxt{
@@ -91,19 +89,16 @@ margin-left: 150px;
 @media only Screen and (device-width: 768px) {
   .videoTxt{
     margin-top: -300px;
-    margin-left: 35px;
   }
 }
 
 @media only Screen and (min-width: 1440px) {
   .videoTxt{
-    margin-left: 20%;
     margin-top: -34.5%;
   }
 }
 @media only Screen and (width: 2880px) {
   .videoTxt{
-    margin-left: 500px!important;
   }
 }
 
