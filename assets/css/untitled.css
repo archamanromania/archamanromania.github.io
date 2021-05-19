@@ -44,10 +44,19 @@ body {
   width: 40%;
   height: 40%;
 }
+.container-partner{
+  background-color: white;
+  height: 500px;
+  width: 100%;
+  text-align: center;
+  margin-top: -10%;
+}
+.container-partner .layer1{
+  width: 70%;
+  margin-left: 15%;
+}
 
 .videoTxt{
-  margin-left: 20%;
-  margin-top: -0px;
 }
 /*
 margin-top: -525px;
@@ -89,15 +98,17 @@ margin-left: 150px;
     margin-top: -34.5%;
   }
 }
-@media only Screen and (min-width: 2000px) {
+@media only Screen and (width: 2880px) {
   .videoTxt{
-    margin-top: -35%;
-    margin-right: 100%;
+    margin-left: 500px!important;
   }
 }
 
 @media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
   /* For portrait layouts only */
+  .videoTxt{
+    
+  }
 }
 
 @media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
