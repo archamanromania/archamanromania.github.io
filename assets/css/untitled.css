@@ -97,8 +97,9 @@ body {
     margin-top: -34.5%;
   }
 }
-@media only Screen and (width: 2880px) {
+@media only Screen and (width: 2000px) {
   .videoTxt{
+
   }
 }
 
@@ -111,4 +112,14 @@ body {
 
 @media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
   /* For landscape layouts only */
+}
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 1) {
+  .videoTxt{
+    margin-left: 150px;
+  }
+}
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 2)  and (min-resolution: 192dpi) {
+  .videoTxt{
+    margin-left: 150px;
+  }
 }
