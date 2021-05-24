@@ -54,11 +54,10 @@ body {
 .container-partner .layer1{
   width: 70%;
   margin-left: 15%;
-  background-color: white;
+  background-color: #fff;
 }
 
 .videoTxt{
-  margin-left: 250px;
 }
 /*
   margin-top: -550px;
@@ -92,9 +91,10 @@ body {
   }
 }
 
-@media only Screen and (min-width: 1440px) {
+@media only Screen and (min-width: 1600px) {
   .videoTxt{
-
+    margin-top: -35%;
+    margin-left: 20%;
   }
 }
 @media only Screen and (width: 2000px) {
@@ -115,7 +115,7 @@ body {
 }
 @media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 1) {
   .videoTxt{
-    margin-top: -36%;
+    margin-top: -36.5%;
     margin-left: 11%;
   }
 }
