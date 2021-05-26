@@ -41,7 +41,7 @@ body {
 }
 .portfolio-logo img{
   width: 40%;
-  height: 40%;
+  height: auto;
 }
 .container-partner{
   background-color: white;
@@ -64,7 +64,13 @@ body {
   font-size: 1.7em;
 }
 
-.
+.partners-logo img{
+  width: 50%;
+  height: auto;
+}
+.partners-logo-mini img{
+  width: 20%;
+}
 
 @media (max-width: 480px) {
   .videoTxt{
