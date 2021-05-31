@@ -4,8 +4,10 @@
     <list default="true" id="b6cb4e2f-3572-4fd5-a7c8-c6c2cb5ee3e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/untitled.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/untitled.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/foto/adjar.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/foto/adjar.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/foto/althof.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/foto/althof.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/foto/burhan.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/foto/burhan.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/foto/dinan.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/foto/dinan.JPG" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +53,9 @@
       <workItem from="1621873668216" duration="2256000" />
       <workItem from="1621962563685" duration="758000" />
       <workItem from="1622030112898" duration="4910000" />
+      <workItem from="1622189376766" duration="777000" />
+      <workItem from="1622440300463" duration="256000" />
+      <workItem from="1622466367629" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1616590240464</created>
