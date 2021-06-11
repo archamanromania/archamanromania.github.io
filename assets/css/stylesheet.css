@@ -479,6 +479,10 @@ pre code {
     margin-right: -1.5rem;
     margin-left: -1.5rem; }
 
+.modal-content-row {
+    display: flex;
+    flex-wrap: wrap; }
+
 .no-gutters {
     margin-right: 0;
     margin-left: 0; }
@@ -1770,12 +1774,12 @@ fieldset:disabled a.btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #5f0b0c;
-    border-color: #5f0b0c; }
+    background-color: rgb(230,49,36);
+    border-color: rgb(230,49,36) }
 .btn-primary:hover {
     color: #fff;
-    background-color: #3d0708;
-    border-color: #310606; }
+    background-color: #000;
+    border-color: #000; }
 .btn-primary:focus, .btn-primary.focus {
     color: #fff;
     background-color: #3d0708;
@@ -4069,7 +4073,7 @@ a.badge-dark:focus, a.badge-dark.focus {
     font-weight: 700;
     line-height: 1;
     color: #000;
-    text-shadow: 0 1px 0 #fff;
+    text-shadow: 0 1px 0 #000;
     opacity: .5; }
 .close:hover {
     color: #000;
@@ -4189,6 +4193,7 @@ a.close.disabled {
     width: 100%;
     pointer-events: auto;
     background-color: #fff;
+    color: #000;
     background-clip: padding-box;
     border: 0 solid rgba(0, 0, 0, 0.2);
     border-radius: 0.75rem;
@@ -7316,7 +7321,7 @@ a.text-dark:hover, a.text-dark:focus {
     top: 1rem;
     font-size: 3rem;
     line-height: 3rem;
-    color: #5f0b0c;
+    color: rgb(230,49,36);
     opacity: 1; }
 
 .floating-label-form-group {

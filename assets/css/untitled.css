@@ -12,7 +12,7 @@ html {
 
 body {
   margin: 0;
-  font-family: Lato,sans-serif;
+  font-family: Helvetica, sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -72,6 +72,46 @@ body {
   width: 20%;
 }
 
+.close-cross {
+  position: absolute;
+  right: 32px;
+  top: 32px;
+  width: 32px;
+  height: 32px;
+  opacity: 0.3;
+}
+.close-cross:hover {
+  opacity: 1;
+}
+.close-cross:before, .close-cross:after {
+  position: absolute;
+  left: 15px;
+  content: ' ';
+  height: 33px;
+  width: 2px;
+  background-color: #333;
+}
+.close-cross:before {
+  transform: rotate(45deg);
+}
+.close-cross:after {
+  transform: rotate(-45deg);
+}
+
+.creative-fields-size{
+  width: 50%;
+}
+.creditTxt{
+  line-height: normal;
+}
+.creditTxt b{
+  margin: 1rem;
+}
+.creditTxt p{
+  margin: 0;
+}
+
+
 @media (max-width: 480px) {
   .videoTxt{
     margin-top: -42.5%;
@@ -80,12 +120,18 @@ body {
   .headerTxt{
     font-size: 0.7em;
   }
+  .creative-fields-size{
+    width: 100%;
+  }
 }
 
 @media only Screen and (min-width: 1600px) {
   .videoTxt{
     margin-top: -35%;
     margin-left: 20%;
+  }
+  .creative-fields-size{
+    width: 50%;
   }
 }
 @media only Screen and (min-width: 2000px) {
@@ -94,6 +140,9 @@ body {
   }
   .videoTxt{
     margin-left: 28%;
+  }
+  .creative-fields-size{
+    width: 50%;
   }
 }
 
@@ -104,7 +153,9 @@ body {
   }
   .headerTxt {
     font-size: 1em;
-
+  }
+  .creative-fields-size{
+    width: 50%;
   }
 }
 
@@ -117,6 +168,9 @@ body {
   }
   .headerTxt{
     font-size: 1em;
+  }
+  .creative-fields-size{
+    width: 50%;
   }
 }
 @media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 1) {
